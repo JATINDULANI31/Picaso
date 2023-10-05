@@ -22,6 +22,7 @@ with col1:               # To display the header text using css style
       font-size: 100px !important;
       font-family: 'Croissant One', cursive;
       color: #FF9633;
+      text-align: center;
       
    }
    </style>
