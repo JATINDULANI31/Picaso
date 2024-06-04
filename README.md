@@ -12,6 +12,9 @@ The project includes direct working with the filters of PIL and OpenCV library.<
 <li>You can convert your image into <b>grayscale</b>, <b>black and white</b> and many other filters</i>.
 <li>After applying filters you can also <b>rotate</b> and <b>resize</b> your image.</ul>
 <br>
+<div align = "center">
+  <h2>Check out the <b>demo</b> video <a href = "https://youtu.be/otUG0Tsz4ss"><u>here.</u></a></h2>
+</div>
 <center><b><h2>Graysacle Image</h2></b></center><br>
 <center><img src="grayscale_image.jpg",align="center",height="200"></center>
 <center><b><h2>Pencil sketch</h2></b></center><br>
@@ -19,5 +22,7 @@ The project includes direct working with the filters of PIL and OpenCV library.<
 <center><b><h2>Viginette Effect</h2></b></center><br>
 <center><img src="Viginette_effect.jpg",align="center",height="200"></center>
 <br>
-Check out the <b>Deployed</b> site <a href = "https://picaso.streamlit.app"><u>here.</u></a>
+<div align = "center">
+  <h2>Check out the <b>Deployed</b> site <a href = "https://picaso.streamlit.app"><u>here.</u></a></h2>
+</div>
 </div>
