@@ -1,4 +1,6 @@
-# Picaso
+<div align = "center">
+  <h1><b><u>PICASO</u></b></h1><hr>
+</div>
 An Image Editing App made using Streamlit , OpenCV and PIL.<br>
 <h2><b>Logic of project</b></h2>
 The project includes direct working with the filters of PIL and OpenCV library.<br>
